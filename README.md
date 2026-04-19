@@ -2,6 +2,8 @@
 
 GTK theme collection for Linux desktops - gnome-shell, gtk-2.0, gtk-3.0, and gtk-4.0 themes in one package.
 
+![Preview](sample.png)
+
 ## Installation
 
 Copy the theme folders to your system theme directory:
