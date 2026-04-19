@@ -1,6 +1,6 @@
 # Not a Mac Clone
 
-GTK theme collection for Linux desktops - gnome-shell, gtk-2.0, gtk-3.0, and gtk-4.0 themes in one package.
+GTK theme for Linux desktops - gnome-shell, gtk-2.0, gtk-3.0, and gtk-4.0 themes.
 
 ![Preview](sample.png)
 
